@@ -1,0 +1,12 @@
+--- 
+- 
+  hosts: all
+  gather_facts: true
+  become: true
+  tasks: 
+    - 
+      name: "1. Stop httpd service"
+      tags: stop_apache
+      service: 
+        name: httpd
+        state: stopped
