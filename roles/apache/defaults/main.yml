@@ -67,5 +67,5 @@ load_balancer_is_required: false
 
 # Webservers 
 loadbalancer_name: "myapp1"
-web1: "172.31.25.134"
-web2: "172.31.18.155"
+web1: "172.31.10.177"
+web2: "172.31.15.126"
