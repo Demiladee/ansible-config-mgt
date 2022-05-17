@@ -53,7 +53,7 @@
         url: http://18.206.145.251:8082/artifactory/pbl/php-todo
         dest: /home/ec2-user/
         url_username: admin
-        url_password: Bankai152.
+        url_password: APcoQF74PmswqVsFdCxjbzhFH8
 
 
     - name: unzip the artifacts
